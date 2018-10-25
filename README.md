@@ -2,6 +2,6 @@
 Test repository to practice git basics with
 
 First we create branch and make changes and commit and merge them to master
-second line
-First commit
-Merge conflict squish practiceasd
+</br>First commit
+</br>third line
+</br>Merge conflict squish practiceasdasd
