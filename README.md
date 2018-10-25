@@ -5,3 +5,4 @@ First we create branch and make changes and commit and merge them to master
 </br>First commit
 </br>third line
 </br>Merge conflict squish practiceasdasd
+asdasdasdanother typos
